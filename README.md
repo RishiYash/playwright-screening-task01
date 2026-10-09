@@ -37,4 +37,4 @@ does not hide real failures.
 
 ## CI
 
-[Add the link to the passing GitHub Actions run here]
+[   Passing CI run: https://github.com/RishiYash/playwright-screening-task01/actions/runs/37881265235]
